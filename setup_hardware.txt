@@ -1,9 +1,9 @@
 DHT11 S连接D3
-	白色连接gnd
-	红色连接电源
+	gnd连接gnd
+	vcc连接电源
 MQ2 AO连接A0
-	蓝色连接gnd
-	红色连接电源
+	gnd连接gnd
+	vcc连接电源
 
 pm 2.5 vcc连接电源
 	gnd连接gnd
@@ -15,4 +15,5 @@ oled vcc连接到5v
 	DC接11
 	RES接10
 	SDA接9
+
 	SCL接8
